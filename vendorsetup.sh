@@ -20,7 +20,7 @@
 #
 
 export LC_ALL="C.UTF-8"
-export FOX_VARIANT="A12+_AOSP"
+export FOX_VARIANT="K5.10"
 export FOX_MAINTAINER_PATCH_VERSION=$(date +"%Y%m%d")
 export FOX_AB_DEVICE=1
 export FOX_VIRTUAL_AB_DEVICE=1
